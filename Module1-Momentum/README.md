@@ -1,1 +1,2 @@
-TEST
+# Project 1: Momentum Trading
+For each month-end observation period, stocks in the universe (S&P500) are ranked by previous returns, from the highest to the lowest. The top performing stocks are selected for the long portfolio, and the bottom performing stocks for the short portfolio. Strategy returns are projected and the p-value calculated to determine if the mean strategy return is statistically significant.
