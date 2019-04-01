@@ -1,1 +1,2 @@
-# Project 3: Smart Beta
+# Project 3: Smart Beta + Portfolio Optimization
+
